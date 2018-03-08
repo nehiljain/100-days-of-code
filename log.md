@@ -358,7 +358,7 @@ Thougths: ** Working through it
 
 **Link to work:**
 
-![KaggleEnrty](images/quiz_week42.png)
+![Quiz42](images/quiz_week42.png)
 
 
 
@@ -419,3 +419,14 @@ Thoughts: 1st pass of adaboost feels superficial, I should read more and differe
 Thoughts: working through... :sweat_smile:
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
+
+
+### Day 46: Mar 7, 2018
+
+- Week 5 assignment on exploring enseble methods complete.
+
+Thoughts: working through... :sweat_smile:
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
+
+![Quiz51](images/quiz_week451.png)
