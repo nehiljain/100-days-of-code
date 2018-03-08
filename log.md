@@ -429,4 +429,4 @@ Thoughts: working through... :sweat_smile:
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
 
-![Quiz51](images/quiz_week451.png)
+![Quiz51](images/quiz_week51.png)
