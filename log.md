@@ -423,10 +423,21 @@ Thoughts: working through... :sweat_smile:
 
 ### Day 46: Mar 7, 2018
 
-- Week 5 assignment on exploring enseble methods complete.
+- Week 5 assignment on exploring ensemble methods complete.
 
 Thoughts: working through... :sweat_smile:
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
 
 ![Quiz51](images/quiz_week51.png)
+
+
+### Day 46: Mar 7, 2018
+
+- Finished lectures. Did Quiz 2
+
+Thoughts: Some bug in quora blocked my progress update. Updating a day late while I did it last night.
+
+**Link to work:**
+
+![Quiz52](images/quiz_week52.png)
