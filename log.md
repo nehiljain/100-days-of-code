@@ -432,7 +432,7 @@ Thoughts: working through... :sweat_smile:
 ![Quiz51](images/quiz_week51.png)
 
 
-### Day 46: Mar 7, 2018
+### Day 47: Mar 8, 2018
 
 - Finished lectures. Did Quiz 2
 
@@ -441,3 +441,13 @@ Thoughts: Some bug in quora blocked my progress update. Updating a day late whil
 **Link to work:**
 
 ![Quiz52](images/quiz_week52.png)
+
+
+### Day 48: Mar 9, 2018
+
+- Airflow blog outline on its way. Feeling good about its progress.
+- Added a dag to remove stale metadata from the db
+
+Thoughts: Great library in Toronto is amazing to go for writing type work. Its inspiring and facilitates my creative writer.
+
+**Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
