@@ -451,3 +451,12 @@ Thoughts: Some bug in quora blocked my progress update. Updating a day late whil
 Thoughts: Great library in Toronto is amazing to go for writing type work. Its inspiring and facilitates my creative writer.
 
 **Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+
+
+### Day 49: Mar 10, 2018
+
+- Participated in Pandas Documentation Sprint. Created my first meaningful opensource PR.
+
+Thoughts: Loved reading through pandas documentation and using their development tooling.
+
+**Link to work:** https://github.com/pandas-dev/pandas/pull/20222
