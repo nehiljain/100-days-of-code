@@ -460,3 +460,12 @@ Thoughts: Great library in Toronto is amazing to go for writing type work. Its i
 Thoughts: Loved reading through pandas documentation and using their development tooling.
 
 **Link to work:** https://github.com/pandas-dev/pandas/pull/20222
+
+
+### Day 50: Mar 10, 2018
+
+- Got PR ready to merge after review. Waiting on a reviewer to approve.
+
+Thoughts: Learnt about CI-CD for pandas, the review system. Loved reading through pandas documentation and using their development tooling.
+
+**Link to work:** https://github.com/pandas-dev/pandas/pull/20222
