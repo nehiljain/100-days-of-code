@@ -469,3 +469,12 @@ Thoughts: Loved reading through pandas documentation and using their development
 Thoughts: Learnt about CI-CD for pandas, the review system. Loved reading through pandas documentation and using their development tooling.
 
 **Link to work:** https://github.com/pandas-dev/pandas/pull/20222
+
+
+### Day 51: Mar 10, 2018
+
+- Back to classification course. Assignment 5 2 on its way.
+
+Thoughts: working through..
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
