@@ -462,7 +462,7 @@ Thoughts: Loved reading through pandas documentation and using their development
 **Link to work:** https://github.com/pandas-dev/pandas/pull/20222
 
 
-### Day 50: Mar 10, 2018
+### Day 50: Mar 11, 2018
 
 - Got PR ready to merge after review. Waiting on a reviewer to approve.
 
@@ -471,9 +471,19 @@ Thoughts: Learnt about CI-CD for pandas, the review system. Loved reading throug
 **Link to work:** https://github.com/pandas-dev/pandas/pull/20222
 
 
-### Day 51: Mar 10, 2018
+### Day 51: Mar 12, 2018
 
 - Back to classification course. Assignment 5 2 on its way.
+
+Thoughts: working through..
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
+
+
+
+### Day 52: Mar 13, 2018
+
+- WIP Assignment 2 Week 5
 
 Thoughts: working through..
 
