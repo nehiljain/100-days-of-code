@@ -11,3 +11,10 @@ Tips and Tricks
 - Choosing a proper learning rate can be difficult.
 - Applying same learning rate to all parameters is inefficient as our features can be of different frequencies.
 - Getting trapped in suboptimal local maxima/minima.
+- ADAM is one of the popular algorithms being used.
+
+Important reads
+
+- [unittests for SGD](https://arxiv.org/abs/1312.6055)
+- [Details of gradient descent and various learning rates](http://ruder.io/optimizing-gradient-descent/)
+
