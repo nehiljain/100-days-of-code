@@ -488,3 +488,12 @@ Thoughts: working through..
 Thoughts: working through..
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
+
+
+### Day 53: Mar 14, 2018
+
+- added content to airflow blog and example code
+
+Thoughts: working through. heavy week at work.
+
+**Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
