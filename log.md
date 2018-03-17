@@ -497,3 +497,21 @@ Thoughts: working through..
 Thoughts: working through. heavy week at work.
 
 **Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+
+### Day 53: Mar 14, 2018
+
+- missed
+
+Thoughts: prioritized work stuff over self learning.
+
+**Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+
+
+
+### Day 5: Mar 16, 2018
+
+- studied gradient descent algos and various learning rate adaptive algos.
+
+Thoughts: work is heavy
+
+**Link to work:** notes folder.
