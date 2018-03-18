@@ -498,7 +498,7 @@ Thoughts: working through. heavy week at work.
 
 **Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
-### Day 53: Mar 14, 2018
+### Day 54: Mar 15, 2018
 
 - missed
 
@@ -508,10 +508,19 @@ Thoughts: prioritized work stuff over self learning.
 
 
 
-### Day 5: Mar 16, 2018
+### Day 55: Mar 16, 2018
 
 - studied gradient descent algos and various learning rate adaptive algos.
 
 Thoughts: work is heavy
 
 **Link to work:** notes folder.
+
+
+### Day 56: Mar 17, 2018
+
+- Continued studing optimisation algos. Played with scipy library to learn how to find minima for functions using scipy.optimise
+
+Thoughts: THis can become math and scientific literature heavy. Working to small examples is really helpful.
+
+**Link to work:** NTS
