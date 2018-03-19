@@ -67,7 +67,7 @@ while (1):          #till it gets converged
 # 
 # 
 
-# In[37]:
+# In[7]:
 
 
 import numpy as np
@@ -87,16 +87,19 @@ plt.scatter(x, y)
 plt.show()
 
 
-# In[36]:
+# In[30]:
 
 
 # Convex Function
 import math
+
+x_try = []
 def f(x):
+#     print(x)
+    x_try.append(x)
     return x * np.log(x)
 
 y = list(map(f, x))
-print(y)
 print(min(y))
 plt.scatter(x, y)
 plt.show()
@@ -105,21 +108,25 @@ from scipy import optimize
 minimum = optimize.fmin(f, 100,full_output=1)
 minimum
 
+plt.scatter(range(len(x_try)),x_try)
 
-# In[25]:
+
+
+# In[10]:
 
 
 from scipy.optimize import curve_fit
 
 
-# In[11]:
+# In[16]:
 
 
 def func(x, a, b, c):
+    print(a,b,c)
     return a * np.exp(-b * x) + c
 
 
-# In[12]:
+# In[17]:
 
 
 xdata = np.linspace(0, 4, 50)
@@ -130,21 +137,43 @@ ydata = y + y_noise
 plt.plot(xdata, ydata, 'b-', label='data')
 
 
-# In[13]:
+# In[18]:
 
 
 popt, pcov = curve_fit(func, xdata, ydata)
 
 
-# In[14]:
+# In[19]:
 
 
 popt
 
 
-# In[15]:
+# In[20]:
 
 
 plt.plot(xdata, func(xdata, *popt), 'r-',
          label='fit: a=%5.3f, b=%5.3f, c=%5.3f' % tuple(popt))
+
+
+# In[34]:
+
+
+# Convex Function
+x_try = []
+def f(x):
+    x_try.append(x)
+    return x ** 8
+
+y = list(map(f, x))
+print(min(y))
+plt.scatter(x, y)
+plt.show()
+
+from scipy import optimize
+minimum = optimize.fmin(f, 100,full_output=1)
+minimum
+
+plt.scatter(range(len(x_try)),x_try)
+
 
