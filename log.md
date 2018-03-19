@@ -524,3 +524,14 @@ Thoughts: work is heavy
 Thoughts: THis can become math and scientific literature heavy. Working to small examples is really helpful.
 
 **Link to work:** NTS
+
+
+### Day 57: Mar 18, 2018
+
+- Bayesian optimisations with Scikit-optimise.
+- Learning what it is about [PyData Video](https://www.youtube.com/watch?v=DGJTEBt0d-s&t=1517s)
+
+
+Thoughts: Sounds like something perfect for my needs. A function that is expensive to compute and is black box enough to not have a gradient.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FGradient%20Descent.ipynb)
