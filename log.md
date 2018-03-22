@@ -535,3 +535,15 @@ Thoughts: THis can become math and scientific literature heavy. Working to small
 Thoughts: Sounds like something perfect for my needs. A function that is expensive to compute and is black box enough to not have a gradient.
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FGradient%20Descent.ipynb)
+
+
+
+### Day 57: Mar 18, 2018
+
+- Notes for Bayesian Optimisations
+- toyying with some documentation and example to understand scikit-optimize
+
+
+Thoughts: Trying to get real world data/problem that i can solve with it. Looking into the finance world which is where people like optimizing things
+
+** Links to work:** .html [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FOptimisations.ipynb) and notes folder
