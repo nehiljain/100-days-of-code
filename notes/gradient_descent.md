@@ -18,3 +18,24 @@ Important reads
 - [unittests for SGD](https://arxiv.org/abs/1312.6055)
 - [Details of gradient descent and various learning rates](http://ruder.io/optimizing-gradient-descent/)
 
+
+Scikit-Optimize
+
+- Gradient Free Optimisations
+- When its best to use this package and in particular bayesian optimisations
+  - function is a black box function
+    - no closed formed solution
+    - no gradients defined
+  - function is expensive to calculate
+  - we only have noisy observations of the given function
+
+- During bayesin optimisation
+  - the process starts with some observations of the objective function
+  - build probablistic model based on gaussian proess (need to read more on this)
+  - have a cheap utility function
+  - once it knows the function with good probability then it used gradient based approach
+- Bayesian means?
+  - unknown objective function <=> random function (stochastic process) (need to read more)
+- There are lots of different things to tune/guess/set to begin with. This library goes a good job of providing defaults.
+
+
