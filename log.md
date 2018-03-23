@@ -537,8 +537,9 @@ Thoughts: Sounds like something perfect for my needs. A function that is expensi
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FGradient%20Descent.ipynb)
 
 
+***************** Mar 19, 20 Break ************
 
-### Day 57: Mar 18, 2018
+### Day 58: Mar 21, 2018
 
 - Notes for Bayesian Optimisations
 - toyying with some documentation and example to understand scikit-optimize
@@ -546,4 +547,16 @@ Thoughts: Sounds like something perfect for my needs. A function that is expensi
 
 Thoughts: Trying to get real world data/problem that i can solve with it. Looking into the finance world which is where people like optimizing things
 
-** Links to work:** .html [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FOptimisations.ipynb) and notes folder
+** Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FOptimisations.ipynb) and notes folder
+
+
+### Day 59: Mar 22, 2018
+
+- Added notes for my second airflow blog. Lots more to do.
+- Fought with travis ci to get my tests to work. Not able to succeed.
+
+
+Thoughts: Something trivial like travis ci test runner is failing me :(
+
+** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+

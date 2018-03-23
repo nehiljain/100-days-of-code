@@ -1,6 +1,6 @@
 Outline
 
-##Dags
+## Dags
 
 ### Parallelizing tasks?
 
@@ -37,7 +37,17 @@ Example tests folder
 
 ## Deployment and Maintenance
 
-Log maintenance
-Kill/Halt tasks when killed in the UI from webserver
-DB instance and task maintenance
-Decoupling code deployment with airflow deployment
+1. Python 3 or 2 or either?
+
+In my experience I have found that airflow is written for python 3 compatibility and it is easier to work if your business logic is written in python 3 as well. It is not strictly required but it makes your life easier as a developer. For example, after you import airflow in your code, all the python 2 relevant functions are aliased as described in [Python Future Docs](http://python-future.org/standard_library_imports.html#standard-library-imports). The file in airflow codebase where this happens is [airflow/configuration.py](https://github.com/apache/incubator-airflow/blob/master/airflow/configuration.py#L35)
+
+
+2. Log maintenance/cleanup?
+
+Airflow has recently changed their logging module and made a lot of improvements. Give this [apace airflow update](https://github.com/apache/incubator-airflow/blob/master/UPDATING.md#logging-update) a quick read to understand the minutae.
+
+3. Kill/Halt tasks when killed in the UI from webserver?
+
+4. DB instance and task maintenance
+
+5. Decoupling code deployment with airflow deployment
