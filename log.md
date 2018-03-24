@@ -560,3 +560,15 @@ Thoughts: Something trivial like travis ci test runner is failing me :(
 
 ** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
+### Day 60: Mar 23, 2018
+
+- Got travis ci and codecov badges going. Moved from pipenv to pip for travis-ci
+- Worked on fleshing content for blog. 40% done. aiming to publish this weekend
+
+Thoughts: Pushing through. My pandas PR is stil not merged but I discovered (tomaugspurger.github.io). Love reading from fellow developers who have done inspirational work.
+
+
+** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+
+
+
