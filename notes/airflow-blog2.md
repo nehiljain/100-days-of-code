@@ -1,19 +1,16 @@
 Outline
 
 #TODO:
+
 1. Check for jargons and definitions
 2. Thing of adding why it matters for each point
-3.
+
+The more experience I gain with airflow, the more I feel the need to consolidate and share the nuances of airflow with other developers who might benefit from it. In this post I write about some gotcha’s that consumed more than a couple hours of mine during my time engineering data pipelines and workflows with Apache Airflow. This is a list of issues where the airflow system behaves differently than what you might expect or some tips which are beneficial to achieve long term success with airflow.
 
 
+#### 1. Python Version for my project - py3 or py2?
 
-The more experience I gain with airflow, the more I feel the need to consolidate and share the nuances of airflow with al the others in their early stages of the journey. In this post I write about some gotcha's that consumed more than a couple hours of mine during my time engineering data pipelines with airflow. This is a list of issues that cause situations where the airflow system behaves differently than what you might expect.
-
-## Dags
-
-1. Should I care if my project is Py2 or Py3?
-
-In my experience I have found that airflow is written for python 3 compatibility. It is a smooth ride if you can write your business logic in python 3 as well. It is not a strict requirement but it makes your life easier as a developer. For example, after you `import airflow` in your code, all the python 2 relevant functions are overwritten to python 3 counter parts as described in [Python Future Docs](http://python-future.org/standard_library_imports.html#standard-library-imports). The file in airflow codebase where this happens is [airflow/configuration.py](https://github.com/apache/incubator-airflow/blob/master/airflow/configuration.py#L35). Below an example of this unexpected behaviour.
+Airflow is written for python 3 compatibility. It is a smooth ride if you can write your business logic in python 3 as well. It is not a strict requirement but it makes your life easier as a developer. For example, after you `import airflow` in your code, all the python 2 relevant functions are overwritten to python 3 counterparts as described in [Python Future Library Docs](http://python-future.org/standard_library_imports.html#standard-library-imports). The file in airflow codebase where this happens is [airflow/configuration.py](https://github.com/apache/incubator-airflow/blob/master/airflow/configuration.py#L35). Below is a code example to demonstrate this.
 
 ```
 import sys
@@ -28,43 +25,16 @@ print("Math ceil function is overridden {} and returns {}".format(math.ceil, typ
 
 ```
 
+#### 2. How to parallelize tasks inside a dag?
+
+There are various types of workflows that can are common while writing airflow dags. Here I am sharing some code snippets to facilitate writing dags easily. I took slides from [Slides for DEVELOPING ELEGANT WORKFLOWS with Apache Airflow @ Europython 2017](https://ep2017.europython.eu/media/conference/slides/developing-elegant-workflows-in-python-code-with-apache-airflow.pdf) for inspiration.
+
+The most common one is sequential source to destination dag.
+![Dag Example1](https://i.imgur.com/s9xGkL6.png) Source: [Slides No 12](https://ep2017.europython.eu/media/conference/slides/developing-elegant-workflows-in-python-code-with-apache-airflow.pdf)
 
 
-2. Can I easily parallelize tasks inside a dag?
 
-It is very easy to parallelise tasks for a given dag that are not dependent on each other. This is benefitial for 2 reasons.
-- removes unneccessary dependencies
-- decreases time to completion
-
-
-example: demo_dag code
-```
-dag = DAG(
-    dag_id=DAG_ID,
-    default_args=args,
-    schedule_interval='*/5 * * * *')
-
-
-stream1_task = PythonOperator(
-    task_id='print_the_context_stream1',
-    provide_context=True,
-    op_kwargs={'stream': 1},
-    python_callable=print_context,
-    dag=dag)
-
-stream2_task = PythonOperator(
-    task_id='print_the_context_stream2',
-    provide_context=True,
-    op_kwargs={'stream': 2},
-    python_callable=print_context,
-    dag=dag)
-
-
-start_task = DummyOperator(task_id='start_task',
-                           dag=dag)
-
-start_task.set_downstream([stream1_task, stream2_task])
-```
+![Dag Example1](https://i.imgur.com/s9xGkL6.png) Source: [Slides No 12](https://ep2017.europython.eu/media/conference/slides/developing-elegant-workflows-in-python-code-with-apache-airflow.pdf)
 
 ### Should start date dynamic or static?
 

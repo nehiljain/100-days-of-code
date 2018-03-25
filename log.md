@@ -571,4 +571,12 @@ Thoughts: Pushing through. My pandas PR is stil not merged but I discovered (tom
 ** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 
+### Day 61: Mar 24, 2018
 
+- Worked on fleshing content for blog. 50% done. Aiming to publish this weekend.
+- Read https://emptysqua.re/blog/resources-for-writing-about-programming/ and following the advice on code snippts as many as you can :)
+
+Thoughts: Excited for this new blog post. Also considering moving to personal github pages blog.
+
+
+** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
