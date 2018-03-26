@@ -580,3 +580,13 @@ Thoughts: Excited for this new blog post. Also considering moving to personal gi
 
 
 ** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+
+
+### Day 62: Mar 25, 2018
+
+- Read about testing in airflow, more research required for the blog.
+
+Thoughts: Wasn't efficient writing the blog, i keep increasing the scope as i do more research.
+
+** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+

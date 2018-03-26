@@ -5,7 +5,7 @@ Outline
 1. Check for jargons and definitions
 2. Thing of adding why it matters for each point
 
-The more experience I gain with airflow, the more I feel the need to consolidate and share the nuances of airflow with other developers who might benefit from it. In this post I write about some gotcha’s that consumed more than a couple hours of mine during my time engineering data pipelines and workflows with Apache Airflow. This is a list of issues where the airflow system behaves differently than what you might expect or some tips which are beneficial to achieve long term success with airflow.
+The more experience I gain with airflow, the more I feel the need to consolidate and share the nuances of airflow with other developers who might benefit from it. In this post I write about some gotcha’s that consumed more than a couple hours of mine during my time engineering data pipelines and workflows with Apache Airflow. This is a list of issues where the airflow system behaves differently than what you might expect or some tips which are beneficial to achieve long term success with airflow. You can read this like a selection of stackoverflow style posts where I pose a question and try to answer it with external links or code examples.
 
 
 #### 1. Python Version for my project - py3 or py2?
@@ -25,20 +25,27 @@ print("Math ceil function is overridden {} and returns {}".format(math.ceil, typ
 
 ```
 
-#### 2. How to parallelize tasks inside a dag?
+#### 2. How to create different patterns found in workflows?
 
 There are various types of workflows that can are common while writing airflow dags. Here I am sharing some code snippets to facilitate writing dags easily. I took slides from [Slides for DEVELOPING ELEGANT WORKFLOWS with Apache Airflow @ Europython 2017](https://ep2017.europython.eu/media/conference/slides/developing-elegant-workflows-in-python-code-with-apache-airflow.pdf) for inspiration.
 
-The most common one is sequential source to destination dag.
+
+The most common one is **sequential source to destination** dag.
 ![Dag Example1](https://i.imgur.com/s9xGkL6.png) Source: [Slides No 12](https://ep2017.europython.eu/media/conference/slides/developing-elegant-workflows-in-python-code-with-apache-airflow.pdf)
 
+ <<code>>
 
-
+**Tributaries** pattern
 ![Dag Example1](https://i.imgur.com/s9xGkL6.png) Source: [Slides No 12](https://ep2017.europython.eu/media/conference/slides/developing-elegant-workflows-in-python-code-with-apache-airflow.pdf)
+ <<code>>
+
+**Distributaries** pattern
+![Dag Example1](https://i.imgur.com/s9xGkL6.png) Source: [Slides No 12](https://ep2017.europython.eu/media/conference/slides/developing-elegant-workflows-in-python-code-with-apache-airflow.pdf)
+ <<code>>
 
 ### Should start date dynamic or static?
 
-I used to always have static start dates as prescribed by [documention on airflow](https://github.com/apache/incubator-airflow/blob/master/UPDATING.md#less-forgiving-scheduler-on-dynamic-start_date), but reading more examples with days_ago made me realise the benifits and how start dates work. The main concept to note is that Dag starts executing at start_date + schedule_interval.
+I started creating dags with static dates as prescribed by [documention on airflow](https://github.com/apache/incubator-airflow/blob/master/UPDATING.md#less-forgiving-scheduler-on-dynamic-start_date). This led to my dags having non-sensical start dates like `start_date: datetime(2016, 3, 20)`  but reading more examples with days_ago made me realise the benifits and how start dates work. The main concept to note is that Dag starts executing at start_date + schedule_interval.
 
 
 https://cwiki.apache.org/confluence/display/AIRFLOW/Common+Pitfalls
@@ -56,7 +63,9 @@ Dags are hard to test. Because of the first point I made, I would advice to keep
 
 ### Utils,
 
-dates is useful, days ago, parse_date
+dates : is useful, days ago, parse_date
+apply_defaults : operator code
+json : https://github.com/apache/incubator-airflow/blob/master/airflow/utils/json.py
 
 
 ## Testing
@@ -67,7 +76,9 @@ Testing dags help remove problems around syntax error etc in dags. Things that c
 - can all the dags be imported
 - verify all the dags that should be on production are the ones that scheduler can see
 - there is now way i could figure out testing dag graph logic and retry logic for tasks.
--
+
+TODO: scout stackoverflow for possible strategies.
+
 
 Example tests folder
 ```
