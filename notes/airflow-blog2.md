@@ -70,17 +70,8 @@ json : https://github.com/apache/incubator-airflow/blob/master/airflow/utils/jso
 
 ## Testing
 
-Dags import testing
-
-Testing dags help remove problems around syntax error etc in dags. Things that can be easily test are:
-- can all the dags be imported
-- verify all the dags that should be on production are the ones that scheduler can see
-- there is now way i could figure out testing dag graph logic and retry logic for tasks.
-
-TODO: scout stackoverflow for possible strategies.
-
-
-Example tests folder
+It is important to remind ourselves that the best practice is to keep Dags very light, i.e, keep the busniess logic away frmo airflow internals in their own module. This way they can be easily tested. For testing Dags and the config, following smoke tests and checks should provide reasonable reliability.
+- Check if scheduler can import all the dags and parse them.
 ```
 import os
 from airflow.models import DagBag
@@ -95,6 +86,21 @@ def test_airflow_dagbag():
   for dag_id in dag_id_list:
     assert dag_id in report
 ```
+
+- Check that every dag has a owner that is not root and exists on the system
+<< code required >>
+
+- Check that dag files load fast enough else this will slow down scheduler heartbeat.
+<< code required>>
+
+- set DAG timeouts and SLA targets to be alerted if your DAGs run too slowly in production
+- Also have tests done in different environements. Development is really small, just to see if it runs the way you expect, Test to take a representative sample of your data to do first sanity checks, Acceptance is a carbon copy of Production (if you have resources)
+
+
+https://gist.github.com/criccomini/2862667822af7fae8b55682faef029a7
+
+Example tests folder
+
 
 ## Deployment and Maintenance
 

@@ -590,3 +590,11 @@ Thoughts: Wasn't efficient writing the blog, i keep increasing the scope as i do
 
 ** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
+### Day 62: Mar 25, 2018
+
+- Added testing outline to blog.
+
+Thoughts: Wasn't efficient writing the blog.
+
+** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+
