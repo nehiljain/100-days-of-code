@@ -598,3 +598,12 @@ Thoughts: Wasn't efficient writing the blog.
 
 ** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
+
+### Day 64: Mar 28, 2018
+
+- Added deployment outline to blog.
+
+Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
+
+** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+

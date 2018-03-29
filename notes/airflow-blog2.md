@@ -5,7 +5,7 @@ Outline
 1. Check for jargons and definitions
 2. Thing of adding why it matters for each point
 
-The more experience I gain with airflow, the more I feel the need to consolidate and share the nuances of airflow with other developers who might benefit from it. In this post I write about some gotcha’s that consumed more than a couple hours of mine during my time engineering data pipelines and workflows with Apache Airflow. This is a list of issues where the airflow system behaves differently than what you might expect or some tips which are beneficial to achieve long term success with airflow. You can read this like a selection of stackoverflow style posts where I pose a question and try to answer it with external links or code examples.
+The more experience I gain with airflow, the more I feel the need to consolidate and share the nuances of airflow with other developers who might benefit from it. In this post I write about some gotcha’s that consumed more than a couple hours during my time engineering data pipelines and workflows with Apache Airflow. This is a list of issues where the airflow system behaves differently than what you might expect or some tips which are beneficial to achieve long term success with airflow. You can read this like a selection of stackoverflow style posts where I pose a question and try to answer it with external links or code examples.
 
 
 #### 1. Python Version for my project - py3 or py2?
@@ -96,7 +96,6 @@ def test_airflow_dagbag():
 - set DAG timeouts and SLA targets to be alerted if your DAGs run too slowly in production
 - Also have tests done in different environements. Development is really small, just to see if it runs the way you expect, Test to take a representative sample of your data to do first sanity checks, Acceptance is a carbon copy of Production (if you have resources)
 
-
 https://gist.github.com/criccomini/2862667822af7fae8b55682faef029a7
 
 Example tests folder
@@ -114,4 +113,13 @@ Airflow has recently changed their logging module and made a lot of improvements
 
 4. DB instance and task maintenance
 
-5. Decoupling code deployment with airflow deployment
+5. Deployements to airflow in production
+
+The initial setup of required to get distributed airflow running in production was described in my previous blog. Give [this]() a read if you haven't.
+
+First it is important to separate your code and logic from dags. This can be done by creating new operators, hooks and sensors. If that is not enough, create libraries that can be imported by code running on airflow.
+
+Second separate deployment of Airflow infrastructure from code deployment. You do not need to redeploy airflow containers (assuming you have containerized deployments/services), this way your scheduler, webserver and workers can keep doing their work and new code can be dynamically added. To push update to your code and business logic used by airflow, I would recommend using shared file system mounted on the Airflow Container. I have been working in AWS cloud, so I would recomment using [AWS EFS](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/). It is easy to setup and mount to your server (ec2-instance). I will be writing a separate post with terraform code to describe the details of this.
+[Gtoonstra's Article](https://gtoonstra.github.io/etl-with-airflow/deployments.html) on airflow also has some really great info. You should give it a read.
+
+
