@@ -55,6 +55,8 @@
 
 ### Day 5: Jan 22, 2018
 
+**Today's Progress**:
+
 - Solved Programming assignment for [Classification Course](https://www.coursera.org/learn/ml-classification)
 - Warming up to sklearn functions and skills
 
@@ -607,3 +609,10 @@ Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
+### Day 65: Mar 29, 2018
+
+- Worked on a simple script to extract and post update from logs to twitter.
+
+Thoughts: Next step is to convert to post commit hook.
+
+**Links to work**: NTS
