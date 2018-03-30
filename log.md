@@ -9,7 +9,7 @@
 
 **Thoughts:** Setup Python3 env, Zappa and basic Flask App. Feels like it took 1.5 hrs to just setup and play with simple github API, need to improve my speed. Refactored logic and simplified requirements in second pass
 
-**Link to work:**
+**Links to work:**
 
 - [API endpoint:=> /brain/api/v1.0/logs/is_updated_today](https://6kvjel14vk.execute-api.us-east-1.amazonaws.com/dev/brain/api/v1.0/logs/is_updated_today)
 
@@ -23,7 +23,7 @@
 
 **Thoughts:** Need to spend more time reading fb messenger api. Should not be that hard. Github example repo was super helpful to quickly get things up and running. Will need to refactor brain.py soon.
 
-**Link to work:**
+**Links to work:**
 
 ![Stackbot](images/screenshot_19_01_18.png)
 
@@ -38,7 +38,7 @@
 
 **Thoughts:** Need to start writing tests. Weekends should be heavier than couple 100 lines of push. Push Push Push!!
 
-**Link to work:** Nothing to show yet
+**Links to work:** Nothing to show yet
 
 
 ### Day 4: Jan 21, 2018
@@ -51,7 +51,7 @@
 
 **Thoughts:** Need to start writing tests. Push Push Push to write heavier pieces!!
 
-**Link to work:** ![JainBot](images/screenshot_21_01_18.png)
+**Links to work:** ![JainBot](images/screenshot_21_01_18.png)
 
 ### Day 5: Jan 22, 2018
 
@@ -60,7 +60,7 @@
 
 **Thoughts:** Making and evaluating simple baseline models is quite easy. I should practice it more often. That way I will not have to relearn the scipy api over and over again.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_1.ipynb)
 
 ### Day 6: Jan 23, 2018
 
@@ -69,7 +69,7 @@
 
 **Thoughts:** Working throught it
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_1.ipynb)
 
 
 ### Day 7: Jan 24, 2018
@@ -79,7 +79,7 @@
 
 **Thoughts:** I love the habit of accomplishing something everyday :)
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_1.ipynb)
 
 
 ### Day 8: Jan 25, 2018
@@ -88,7 +88,7 @@
 
 **Thoughts:** Working through it is fun. Try and work on assingments with blank slate instead of pre-filled template in coursera as it makes things easier/spood fed. :)
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_1.ipynb)
 
 
 ### Day 10: Jan 27, 2018
@@ -97,7 +97,7 @@
 
 **Thoughts:** This is a piece of Infra as code I want to build, for data teams in fast growing companies. There are still some tweaks left and clean up is required to ship it properly.
 
-**Link to work:**  /code/datascience-infra of this repository
+**Links to work:**  /code/datascience-infra of this repository
 
 
 ### Day 11: Jan 28, 2018
@@ -107,7 +107,7 @@
 
 **Thoughts:** Sunday was a good day for consuming lectures and spending time understand the concepts. Happy with my progress on it. Assignment and L2 next.
 
-**Link to work:** ![Quiz](images/quiz2.png) ![Derivation Result](images/loglikelihood_proof.jpeg)
+**Links to work:** ![Quiz](images/quiz2.png) ![Derivation Result](images/loglikelihood_proof.jpeg)
 
 
 
@@ -117,7 +117,7 @@
 
 **Thoughts:** Working through it. Late night math can be hard to digest and takes more time.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_2.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_2.ipynb)
 
 
 ### Day 13: Jan 30, 2018
@@ -127,7 +127,7 @@
 
 **Thoughts:** Working through it.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_2.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_2.ipynb)
 
 
 ### Day 14: Jan 31, 2018
@@ -138,7 +138,7 @@
 
 **Thoughts:** Jupyter notebook post-save hook is major key for version control and peer-reviewed workflow. Correlation is a basic tool and I want to learn to become good at finding variables that are correlated. It can directly help make business decision when data is present.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master)
 
 
 ### Day 15: Feb 1, 2018
@@ -147,7 +147,7 @@
 
 **Thoughts:** Working through it. It was hard today. Work and Gym was heavy then had to plough through to get something done later.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
 
 ### Day 16: Feb 2, 2018
 
@@ -155,7 +155,7 @@
 
 **Thoughts:** Working through it.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
 
 
 ### Day 17: Feb 3, 2018
@@ -165,7 +165,7 @@
 
 **Thoughts:** It was fun to see how I can easily play with Decision Trees and visualise them using graphviz.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
 
 
 ### Day 18: Feb 4, 2018
@@ -175,7 +175,7 @@
 
 **Thoughts:** Visualisation of a making of Decision Tree looks much like KD-Trees. Also implementing simple version of decision tree gives a deeper intuition of what might be happening inside the model and how i can understand a leaf is formed and do feature engineering to change it for lower error
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_2.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_2.ipynb)
 
 
 ### Day 19: Feb 5, 2018
@@ -185,7 +185,7 @@
 
 **Thoughts:** Trying the experiment of working in the morning instead of night after work. Feels good to do it in the morning. Lets see how sustainable this is :)
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_2.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_2.ipynb)
 
 
 
@@ -196,7 +196,7 @@
 
 **Thoughts:** Some libraries need special attention and love. Numpy is high on my list because it can improve speed and memory performance of python lists in my code.
 
-**Link to work:** Still to come.
+**Links to work:** Still to come.
 
 ### Day 22: Feb 8, 2018
 
@@ -204,7 +204,7 @@
 
 **Thoughts:** Some libraries need special attention and love. Numpy is high on my list because it can improve speed and memory performance of python lists in my code. Its already proving useful in my data analysis work to know about numpy arrays.
 
-**Link to work:** Still to come.
+**Links to work:** Still to come.
 
 ### Day 23: Feb 9, 2018
 
@@ -212,7 +212,7 @@
 
 **Thoughts:** This week of the course seems light/easy on the programttic side and concept side. Its interesting to see how close decision tree algorithm resembles the kd-tree algorithm.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_4_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_4_1.ipynb)
 
 ### Day 24: Feb 10, 2018
 
@@ -221,7 +221,7 @@
 
 **Thoughts:** Need to find this bug but too tired. Will come back to it tomorrow.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_4_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_4_1.ipynb)
 
 ### Day 25: Feb 11, 2018
 
@@ -229,7 +229,7 @@
 
 **Thoughts:** Snaptravel Work and recovery from DB practice last night decreased efficiency
 
-**Link to work:** NTS(Nothing to show)
+**Links to work:** NTS(Nothing to show)
 
 ### Day 26: Feb 12, 2018
 
@@ -237,7 +237,7 @@
 
 **Thoughts:** This opens the gate to play around with kaggle datasets and competitons. Exciting.
 
-**Link to work:**
+**Links to work:**
 
 ![KaggleEnrty](images/kaggle_submission.png)
 
@@ -248,7 +248,7 @@
 
 **Thoughts:** Good Kaggle kernels is exactly what I was looking for. They help me learn with practical context.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
 
 ### Day 28: Feb 14, 2018
 
@@ -256,7 +256,7 @@
 
 **Thoughts:** Learnt a bunch of pandas tricks, seaborn usage and feature selection. Cleaning dataset gave my model a small boost.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
 
 ![KaggleEnrty](images/kaggle_submission2.png)
 
@@ -267,14 +267,14 @@
 
 **Thoughts:** Learnt a bunch of pandas tricks, seaborn usage and feature selection.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
 
 
 ### Day 30: Feb 16, 2018
 
 - Played and understood itertools. It seems to be the missing tools I needed for my data pipeline work. Efficient way to read data without reading it in memory at once and cycling through with multiple times without multiple copies.
 
-**Link to work:** NTS
+**Links to work:** NTS
 
 ~~~~~~~~~~~~ Took a 3 Day Break in Provincial Park Algonquin ~~~~~~~~~~~~
 
@@ -284,7 +284,7 @@
 
 Thougths: ** Back from vacay and refreshed.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
 
 ### Day 32: Feb 21, 2018
@@ -293,7 +293,7 @@ Thougths: ** Back from vacay and refreshed.
 
 Thougths: ** Scrapy is quick, great and effective way to collect personal data. Enjoyed working with it.
 
-**Link to work:** Nothing To Show. Code in repo.
+**Links to work:** Nothing To Show. Code in repo.
 
 
 ### Day 33: Feb 22, 2018
@@ -302,7 +302,7 @@ Thougths: ** Scrapy is quick, great and effective way to collect personal data. 
 
 Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
 
-**Link to work:** Nothing To Show. Code in repo.
+**Links to work:** Nothing To Show. Code in repo.
 
 
 
@@ -313,7 +313,7 @@ Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take
 
 Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
 
 
@@ -324,7 +324,7 @@ Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take
 
 Thougths: ** Pulp is playing hard to work with right now. Will run some sample code from github to learn if it works in my env.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
 
 
@@ -335,7 +335,7 @@ Thougths: ** Pulp is playing hard to work with right now. Will run some sample c
 
 Thougths: ** need to develop better intuition about data cleanup. Could have guessed 0 pages books should be removed. less than 2 star books can be removed. etc. But model works and I have some idea of how to setup objective function and constraints. Need more practice with LP to intuitively create solutions.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
 
 ### Day 37: Feb 26, 2018
@@ -346,7 +346,7 @@ Thougths: ** need to develop better intuition about data cleanup. Could have gue
 
 Thougths: ** need to develop better intuition about data cleanup. Pretty happy with the model result though. I feel its achievable to finish reading 70 books in 100 hours.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
 
 ### Day 38: Feb 27, 2018
@@ -356,7 +356,7 @@ Thougths: ** need to develop better intuition about data cleanup. Pretty happy w
 
 Thougths: ** Working through it
 
-**Link to work:**
+**Links to work:**
 
 ![Quiz42](images/quiz_week42.png)
 
@@ -369,7 +369,7 @@ Thougths: ** Working through it
 
 Thougths: ** Working through it
 
-**Link to work:** Nothing to show. Notes for microservices updated in notes folder.
+**Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
 ### Day 40: Mar 1, 2018
 
@@ -377,7 +377,7 @@ Thougths: ** Working through it
 
 Thougths: ** Was strapped on time due to hectic work deadline. But small progress counts I guess.
 
-**Link to work:** Nothing to show. Notes for microservices updated in notes folder.
+**Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
 ### Day 41: Mar 2, 2018
 
@@ -389,7 +389,7 @@ MISSED
 
 Thougths: ** Finishing this first before jumping back into classification course. Microservices knowledge was a bit time sensitiev to packed it in the middle of my classification course.
 
-**Link to work:** Nothing to show. Notes for microservices updated in notes folder.
+**Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
 
 ### Day 43: Mar 4, 2018
@@ -399,7 +399,7 @@ Thougths: ** Finishing this first before jumping back into classification course
 
 Thougths: ** It is a tool for myself to setup airflow and will also support the next blog post I am going to write about FAQs and common problems I faced while running airflow for a year.
 
-**Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 
 ### Day 44: Mar 5, 2018
@@ -409,7 +409,7 @@ Thougths: ** It is a tool for myself to setup airflow and will also support the 
 
 Thoughts: 1st pass of adaboost feels superficial, I should read more and different sources to get a better understanding of the ensembling algorithm
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
 
 ### Day 45: Mar 6, 2018
 
@@ -418,7 +418,7 @@ Thoughts: 1st pass of adaboost feels superficial, I should read more and differe
 
 Thoughts: working through... :sweat_smile:
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
 
 
 ### Day 46: Mar 7, 2018
@@ -427,7 +427,7 @@ Thoughts: working through... :sweat_smile:
 
 Thoughts: working through... :sweat_smile:
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
 
 ![Quiz51](images/quiz_week51.png)
 
@@ -438,7 +438,7 @@ Thoughts: working through... :sweat_smile:
 
 Thoughts: Some bug in quora blocked my progress update. Updating a day late while I did it last night.
 
-**Link to work:**
+**Links to work:**
 
 ![Quiz52](images/quiz_week52.png)
 
@@ -450,7 +450,7 @@ Thoughts: Some bug in quora blocked my progress update. Updating a day late whil
 
 Thoughts: Great library in Toronto is amazing to go for writing type work. Its inspiring and facilitates my creative writer.
 
-**Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 
 ### Day 49: Mar 10, 2018
@@ -459,7 +459,7 @@ Thoughts: Great library in Toronto is amazing to go for writing type work. Its i
 
 Thoughts: Loved reading through pandas documentation and using their development tooling.
 
-**Link to work:** https://github.com/pandas-dev/pandas/pull/20222
+**Links to work:** https://github.com/pandas-dev/pandas/pull/20222
 
 
 ### Day 50: Mar 11, 2018
@@ -468,7 +468,7 @@ Thoughts: Loved reading through pandas documentation and using their development
 
 Thoughts: Learnt about CI-CD for pandas, the review system. Loved reading through pandas documentation and using their development tooling.
 
-**Link to work:** https://github.com/pandas-dev/pandas/pull/20222
+**Links to work:** https://github.com/pandas-dev/pandas/pull/20222
 
 
 ### Day 51: Mar 12, 2018
@@ -477,7 +477,7 @@ Thoughts: Learnt about CI-CD for pandas, the review system. Loved reading throug
 
 Thoughts: working through..
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
 
 
 
@@ -487,7 +487,7 @@ Thoughts: working through..
 
 Thoughts: working through..
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
 
 
 ### Day 53: Mar 14, 2018
@@ -496,7 +496,7 @@ Thoughts: working through..
 
 Thoughts: working through. heavy week at work.
 
-**Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 ### Day 54: Mar 15, 2018
 
@@ -504,7 +504,7 @@ Thoughts: working through. heavy week at work.
 
 Thoughts: prioritized work stuff over self learning.
 
-**Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 
 
@@ -514,7 +514,7 @@ Thoughts: prioritized work stuff over self learning.
 
 Thoughts: work is heavy
 
-**Link to work:** notes folder.
+**Links to work:** notes folder.
 
 
 ### Day 56: Mar 17, 2018
@@ -523,7 +523,7 @@ Thoughts: work is heavy
 
 Thoughts: THis can become math and scientific literature heavy. Working to small examples is really helpful.
 
-**Link to work:** NTS
+**Links to work:** NTS
 
 
 ### Day 57: Mar 18, 2018
@@ -534,7 +534,7 @@ Thoughts: THis can become math and scientific literature heavy. Working to small
 
 Thoughts: Sounds like something perfect for my needs. A function that is expensive to compute and is black box enough to not have a gradient.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FGradient%20Descent.ipynb)
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FGradient%20Descent.ipynb)
 
 
 ***************** Mar 19, 20 Break ************
@@ -547,7 +547,7 @@ Thoughts: Sounds like something perfect for my needs. A function that is expensi
 
 Thoughts: Trying to get real world data/problem that i can solve with it. Looking into the finance world which is where people like optimizing things
 
-** Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FOptimisations.ipynb) and notes folder
+**Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FOptimisations.ipynb) and notes folder
 
 
 ### Day 59: Mar 22, 2018
@@ -558,7 +558,7 @@ Thoughts: Trying to get real world data/problem that i can solve with it. Lookin
 
 Thoughts: Something trivial like travis ci test runner is failing me :(
 
-** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 ### Day 60: Mar 23, 2018
 
@@ -568,7 +568,7 @@ Thoughts: Something trivial like travis ci test runner is failing me :(
 Thoughts: Pushing through. My pandas PR is stil not merged but I discovered (tomaugspurger.github.io). Love reading from fellow developers who have done inspirational work.
 
 
-** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 
 ### Day 61: Mar 24, 2018
@@ -579,7 +579,7 @@ Thoughts: Pushing through. My pandas PR is stil not merged but I discovered (tom
 Thoughts: Excited for this new blog post. Also considering moving to personal github pages blog.
 
 
-** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 
 ### Day 62: Mar 25, 2018
@@ -588,7 +588,7 @@ Thoughts: Excited for this new blog post. Also considering moving to personal gi
 
 Thoughts: Wasn't efficient writing the blog, i keep increasing the scope as i do more research.
 
-** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 ### Day 63: Mar 26, 2018
 
@@ -596,7 +596,7 @@ Thoughts: Wasn't efficient writing the blog, i keep increasing the scope as i do
 
 Thoughts: Wasn't efficient writing the blog.
 
-** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
 
 ### Day 64: Mar 28, 2018
@@ -605,5 +605,5 @@ Thoughts: Wasn't efficient writing the blog.
 
 Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
 
-** Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+**Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
