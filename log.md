@@ -615,4 +615,4 @@ Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
 
 Thoughts: Next step is to convert to post commit hook.
 
-**Links to work**: NTS
+**Links to work:** NTS
