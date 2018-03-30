@@ -613,6 +613,6 @@ Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
 
 - Worked on a simple script to extract and post update from logs to twitter.
 
-Thoughts: Nex step is to convert to post commit hook.
+Thoughts: Next step is to convert to post commit hook.
 
 **Links to work**: NTS
