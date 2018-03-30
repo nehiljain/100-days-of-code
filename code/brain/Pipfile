@@ -17,6 +17,8 @@ pandas = "*"
 jupyter = "*"
 python-twitter = "*"
 pygithub = "*"
+cucco = "*"
+pyyaml = "*"
 
 
 [requires]
