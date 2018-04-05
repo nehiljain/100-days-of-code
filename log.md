@@ -284,7 +284,7 @@
 
 - Started working on linear programming to write some optimisizers given a dataset. I think it can be a simple and a neat way to solve personal problems everyday :)
 
-Thougths: ** Back from vacay and refreshed.
+**Thougths:** Back from vacay and refreshed.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -293,7 +293,7 @@ Thougths: ** Back from vacay and refreshed.
 
 - Scrapy bot for collecting goodreads book data from book list.
 
-Thougths: ** Scrapy is quick, great and effective way to collect personal data. Enjoyed working with it.
+**Thougths:** Scrapy is quick, great and effective way to collect personal data. Enjoyed working with it.
 
 **Links to work:** Nothing To Show. Code in repo.
 
@@ -302,7 +302,7 @@ Thougths: ** Scrapy is quick, great and effective way to collect personal data. 
 
 - Data collection for best booklist is in progress. Added top genres based on user labels.
 
-Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
+**Thougths:** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
 
 **Links to work:** Nothing To Show. Code in repo.
 
@@ -313,7 +313,7 @@ Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take
 - Modified num_pages, started playing with data to construct linearprogramming model
 - Started some lecture on linearprogramming on safaribooks to better understand the concepts while coding it up
 
-Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
+**Thougths:** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -324,7 +324,7 @@ Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take
 - Started learning and diving into my first simple LP model.
 - Still WIP, fighting with pulp to work for small data first.
 
-Thougths: ** Pulp is playing hard to work with right now. Will run some sample code from github to learn if it works in my env.
+**Thougths:** Pulp is playing hard to work with right now. Will run some sample code from github to learn if it works in my env.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -335,7 +335,7 @@ Thougths: ** Pulp is playing hard to work with right now. Will run some sample c
 - First LP model completed. Suggests 374 books in 100 hours.
 
 
-Thougths: ** need to develop better intuition about data cleanup. Could have guessed 0 pages books should be removed. less than 2 star books can be removed. etc. But model works and I have some idea of how to setup objective function and constraints. Need more practice with LP to intuitively create solutions.
+**Thougths:** need to develop better intuition about data cleanup. Could have guessed 0 pages books should be removed. less than 2 star books can be removed. etc. But model works and I have some idea of how to setup objective function and constraints. Need more practice with LP to intuitively create solutions.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -346,7 +346,7 @@ Thougths: ** need to develop better intuition about data cleanup. Could have gue
 - Updated model to include more of the dataset. Dropped duplicates, cleaned for children books etc
 
 
-Thougths: ** need to develop better intuition about data cleanup. Pretty happy with the model result though. I feel its achievable to finish reading 70 books in 100 hours.
+**Thougths:** need to develop better intuition about data cleanup. Pretty happy with the model result though. I feel its achievable to finish reading 70 books in 100 hours.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -356,7 +356,7 @@ Thougths: ** need to develop better intuition about data cleanup. Pretty happy w
 - Back to classification course. Finished week 4 quiz and refreshed the last module i was at.
 - Wrote some sql for a random hackerrank challenge to test my skill. (check)
 
-Thougths: ** Working through it
+**Thougths:** Working through it
 
 **Links to work:**
 
@@ -369,7 +369,7 @@ Thougths: ** Working through it
 - Started week 5. Boosting. WIP..will start assignment soon.
 - Parallely learning about microservcices architecture and principles.
 
-Thougths: ** Working through it
+**Thougths:** Working through it
 
 **Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
@@ -377,7 +377,7 @@ Thougths: ** Working through it
 
 - Continued principles of microservices.
 
-Thougths: ** Was strapped on time due to hectic work deadline. But small progress counts I guess.
+**Thougths:** Was strapped on time due to hectic work deadline. But small progress counts I guess.
 
 **Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
@@ -389,7 +389,7 @@ MISSED
 
 - Continued principles of microservices. Topics covered today were: consumer first design of microservics and independent deployments.
 
-Thougths: ** Finishing this first before jumping back into classification course. Microservices knowledge was a bit time sensitiev to packed it in the middle of my classification course.
+**Thougths:** Finishing this first before jumping back into classification course. Microservices knowledge was a bit time sensitiev to packed it in the middle of my classification course.
 
 **Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
@@ -399,7 +399,7 @@ Thougths: ** Finishing this first before jumping back into classification course
 - Completed principles of microservices. Topics covered today were: Isolated failures and highly observable microservices.
 - Started a Airflow Te,plte project to use as starting point for all the best practices i have learnt and samepl code.
 
-Thougths: ** It is a tool for myself to setup airflow and will also support the next blog post I am going to write about FAQs and common problems I faced while running airflow for a year.
+**Thougths:** It is a tool for myself to setup airflow and will also support the next blog post I am going to write about FAQs and common problems I faced while running airflow for a year.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -409,7 +409,7 @@ Thougths: ** It is a tool for myself to setup airflow and will also support the 
 - Adaboost algorithm videos done
 - Setup for week 5 assignment done
 
-Thoughts: 1st pass of adaboost feels superficial, I should read more and different sources to get a better understanding of the ensembling algorithm
+**Thoughts:** 1st pass of adaboost feels superficial, I should read more and different sources to get a better understanding of the ensembling algorithm
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
 
@@ -418,7 +418,7 @@ Thoughts: 1st pass of adaboost feels superficial, I should read more and differe
 - 40% assignment done.
 - spent some time reading and understanding scikit learn documentation
 
-Thoughts: working through... :sweat_smile:
+**Thoughts:** working through... :sweat_smile:
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
 
@@ -427,7 +427,7 @@ Thoughts: working through... :sweat_smile:
 
 - Week 5 assignment on exploring ensemble methods complete.
 
-Thoughts: working through... :sweat_smile:
+**Thoughts:** working through... :sweat_smile:
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
 
@@ -438,7 +438,7 @@ Thoughts: working through... :sweat_smile:
 
 - Finished lectures. Did Quiz 2
 
-Thoughts: Some bug in quora blocked my progress update. Updating a day late while I did it last night.
+**Thoughts:** Some bug in quora blocked my progress update. Updating a day late while I did it last night.
 
 **Links to work:**
 
@@ -450,7 +450,7 @@ Thoughts: Some bug in quora blocked my progress update. Updating a day late whil
 - Airflow blog outline on its way. Feeling good about its progress.
 - Added a dag to remove stale metadata from the db
 
-Thoughts: Great library in Toronto is amazing to go for writing type work. Its inspiring and facilitates my creative writer.
+**Thoughts:** Great library in Toronto is amazing to go for writing type work. Its inspiring and facilitates my creative writer.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -459,7 +459,7 @@ Thoughts: Great library in Toronto is amazing to go for writing type work. Its i
 
 - Participated in Pandas Documentation Sprint. Created my first meaningful opensource PR.
 
-Thoughts: Loved reading through pandas documentation and using their development tooling.
+**Thoughts:** Loved reading through pandas documentation and using their development tooling.
 
 **Links to work:** https://github.com/pandas-dev/pandas/pull/20222
 
@@ -468,7 +468,7 @@ Thoughts: Loved reading through pandas documentation and using their development
 
 - Got PR ready to merge after review. Waiting on a reviewer to approve.
 
-Thoughts: Learnt about CI-CD for pandas, the review system. Loved reading through pandas documentation and using their development tooling.
+**Thoughts:** Learnt about CI-CD for pandas, the review system. Loved reading through pandas documentation and using their development tooling.
 
 **Links to work:** https://github.com/pandas-dev/pandas/pull/20222
 
@@ -477,7 +477,7 @@ Thoughts: Learnt about CI-CD for pandas, the review system. Loved reading throug
 
 - Back to classification course. Assignment 5 2 on its way.
 
-Thoughts: working through..
+**Thoughts:** working through..
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
 
@@ -487,7 +487,7 @@ Thoughts: working through..
 
 - WIP Assignment 2 Week 5
 
-Thoughts: working through..
+**Thoughts:** working through..
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_5_2.ipynb)
 
@@ -496,7 +496,7 @@ Thoughts: working through..
 
 - added content to airflow blog and example code
 
-Thoughts: working through. heavy week at work.
+**Thoughts:** working through. heavy week at work.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -504,7 +504,7 @@ Thoughts: working through. heavy week at work.
 
 - missed
 
-Thoughts: prioritized work stuff over self learning.
+**Thoughts:** prioritized work stuff over self learning.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -514,7 +514,7 @@ Thoughts: prioritized work stuff over self learning.
 
 - studied gradient descent algos and various learning rate adaptive algos.
 
-Thoughts: work is heavy
+**Thoughts:** work is heavy
 
 **Links to work:** notes folder.
 
@@ -523,7 +523,7 @@ Thoughts: work is heavy
 
 - Continued studing optimisation algos. Played with scipy library to learn how to find minima for functions using scipy.optimise
 
-Thoughts: THis can become math and scientific literature heavy. Working to small examples is really helpful.
+**Thoughts:** THis can become math and scientific literature heavy. Working to small examples is really helpful.
 
 **Links to work:** NTS
 
@@ -534,7 +534,7 @@ Thoughts: THis can become math and scientific literature heavy. Working to small
 - Learning what it is about [PyData Video](https://www.youtube.com/watch?v=DGJTEBt0d-s&t=1517s)
 
 
-Thoughts: Sounds like something perfect for my needs. A function that is expensive to compute and is black box enough to not have a gradient.
+**Thoughts:** Sounds like something perfect for my needs. A function that is expensive to compute and is black box enough to not have a gradient.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FGradient%20Descent.ipynb)
 
@@ -547,7 +547,7 @@ Thoughts: Sounds like something perfect for my needs. A function that is expensi
 - toyying with some documentation and example to understand scikit-optimize
 
 
-Thoughts: Trying to get real world data/problem that i can solve with it. Looking into the finance world which is where people like optimizing things
+**Thoughts:** Trying to get real world data/problem that i can solve with it. Looking into the finance world which is where people like optimizing things
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FOptimisations.ipynb) and notes folder
 
@@ -558,7 +558,7 @@ Thoughts: Trying to get real world data/problem that i can solve with it. Lookin
 - Fought with travis ci to get my tests to work. Not able to succeed.
 
 
-Thoughts: Something trivial like travis ci test runner is failing me :(
+**Thoughts:** Something trivial like travis ci test runner is failing me :(
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -567,7 +567,7 @@ Thoughts: Something trivial like travis ci test runner is failing me :(
 - Got travis ci and codecov badges going. Moved from pipenv to pip for travis-ci
 - Worked on fleshing content for blog. 40% done. aiming to publish this weekend
 
-Thoughts: Pushing through. My pandas PR is stil not merged but I discovered (tomaugspurger.github.io). Love reading from fellow developers who have done inspirational work.
+**Thoughts:** Pushing through. My pandas PR is stil not merged but I discovered (tomaugspurger.github.io). Love reading from fellow developers who have done inspirational work.
 
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
@@ -578,7 +578,7 @@ Thoughts: Pushing through. My pandas PR is stil not merged but I discovered (tom
 - Worked on fleshing content for blog. 50% done. Aiming to publish this weekend.
 - Read https://emptysqua.re/blog/resources-for-writing-about-programming/ and following the advice on code snippts as many as you can :)
 
-Thoughts: Excited for this new blog post. Also considering moving to personal github pages blog.
+**Thoughts:** Excited for this new blog post. Also considering moving to personal github pages blog.
 
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
@@ -588,7 +588,7 @@ Thoughts: Excited for this new blog post. Also considering moving to personal gi
 
 - Read about testing in airflow, more research required for the blog.
 
-Thoughts: Wasn't efficient writing the blog, i keep increasing the scope as i do more research.
+**Thoughts:** Wasn't efficient writing the blog, i keep increasing the scope as i do more research.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -596,7 +596,7 @@ Thoughts: Wasn't efficient writing the blog, i keep increasing the scope as i do
 
 - Added testing outline to blog.
 
-Thoughts: Wasn't efficient writing the blog.
+**Thoughts:** Wasn't efficient writing the blog.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -605,7 +605,7 @@ Thoughts: Wasn't efficient writing the blog.
 
 - Added deployment outline to blog.
 
-Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
+**Thoughts:** Wasn't efficient writing the blog and woring through 100 days of code.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -613,7 +613,7 @@ Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
 
 - Worked on a simple script to extract and post update from logs to twitter.
 
-Thoughts: Next step is to convert to post commit hook.
+**Thoughts:** Next step is to convert to post commit hook.
 
 **Links to work**: NTS
 
@@ -622,7 +622,7 @@ Thoughts: Next step is to convert to post commit hook.
 
 - Back to the game after neck injury. New personal site in the making. Version 0 is up
 
-Thoughts: Pelican is easy and comfortable to get a good workflow going. Excited to start this. Also found some inspiring personal sites/blogs who use pelican.
+**Thoughts:** Pelican is easy and comfortable to get a good workflow going. Excited to start this. Also found some inspiring personal sites/blogs who use pelican.
 
 **Links to work**: https://nehiljain.github.io
 
