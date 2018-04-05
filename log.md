@@ -389,7 +389,11 @@ MISSED
 
 - Continued principles of microservices. Topics covered today were: consumer first design of microservics and independent deployments.
 
+<<<<<<< HEAD
 **Thougths:** Finishing this first before jumping back into classification course. Microservices knowledge was a bit time sensitiev to packed it in the middle of my classification course.
+=======
+** Thougths:** Finishing this first before jumping back into classification course. Microservices knowledge was a bit time sensitiev to packed it in the middle of my classification course.
+>>>>>>> 9a4a8dbd412a02c414a236c9eee8f692e6d1bbef
 
 **Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
@@ -608,6 +612,7 @@ MISSED
 **Thoughts:** Wasn't efficient writing the blog and woring through 100 days of code.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+
 
 ### Day 65: Mar 29, 2018
 
