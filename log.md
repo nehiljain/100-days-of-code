@@ -624,6 +624,6 @@ Thoughts: Next step is to convert to post commit hook.
 
 Thoughts: Pelican is easy and comfortable to get a good workflow going. Excited to start this. Also found some inspiring personal sites/blogs who use pelican.
 
-**Links to work**: http://nehiljain.github.io
+**Links to work**: https://nehiljain.github.io
 
 
