@@ -620,7 +620,7 @@ MISSED
 
 **Thoughts:** Next step is to convert to post commit hook.
 
-**Links to work**: NTS
+**Links to work:** NTS
 
 
 ### Day 66: April 4, 2018
@@ -629,6 +629,6 @@ MISSED
 
 **Thoughts:** Pelican is easy and comfortable to get a good workflow going. Excited to start this. Also found some inspiring personal sites/blogs who use pelican.
 
-**Links to work**: https://nehiljain.github.io
+**Links to work:** https://nehiljain.github.io
 
 
