@@ -613,6 +613,17 @@ Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
 
 - Worked on a simple script to extract and post update from logs to twitter.
 
-Thoughts: Nex step is to convert to post commit hook.
+Thoughts: Next step is to convert to post commit hook.
 
 **Links to work**: NTS
+
+
+### Day 66: April 4, 2018
+
+- Back to the game after neck injury. New personal site in the making. Version 0 is up
+
+Thoughts: Pelican is easy and comfortable to get a good workflow going. Excited to start this. Also found some inspiring personal sites/blogs who use pelican.
+
+**Links to work**: http://nehiljain.github.io
+
+
