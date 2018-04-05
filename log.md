@@ -284,7 +284,7 @@
 
 - Started working on linear programming to write some optimisizers given a dataset. I think it can be a simple and a neat way to solve personal problems everyday :)
 
-Thougths: ** Back from vacay and refreshed.
+**  Thougths:** Back from vacay and refreshed.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -293,7 +293,7 @@ Thougths: ** Back from vacay and refreshed.
 
 - Scrapy bot for collecting goodreads book data from book list.
 
-Thougths: ** Scrapy is quick, great and effective way to collect personal data. Enjoyed working with it.
+**  Thougths:** Scrapy is quick, great and effective way to collect personal data. Enjoyed working with it.
 
 **Links to work:** Nothing To Show. Code in repo.
 
@@ -302,7 +302,7 @@ Thougths: ** Scrapy is quick, great and effective way to collect personal data. 
 
 - Data collection for best booklist is in progress. Added top genres based on user labels.
 
-Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
+**  Thougths:** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
 
 **Links to work:** Nothing To Show. Code in repo.
 
@@ -313,7 +313,7 @@ Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take
 - Modified num_pages, started playing with data to construct linearprogramming model
 - Started some lecture on linearprogramming on safaribooks to better understand the concepts while coding it up
 
-Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
+**  Thougths:** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -324,7 +324,7 @@ Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take
 - Started learning and diving into my first simple LP model.
 - Still WIP, fighting with pulp to work for small data first.
 
-Thougths: ** Pulp is playing hard to work with right now. Will run some sample code from github to learn if it works in my env.
+**  Thougths:** Pulp is playing hard to work with right now. Will run some sample code from github to learn if it works in my env.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -335,7 +335,7 @@ Thougths: ** Pulp is playing hard to work with right now. Will run some sample c
 - First LP model completed. Suggests 374 books in 100 hours.
 
 
-Thougths: ** need to develop better intuition about data cleanup. Could have guessed 0 pages books should be removed. less than 2 star books can be removed. etc. But model works and I have some idea of how to setup objective function and constraints. Need more practice with LP to intuitively create solutions.
+**  Thougths:** need to develop better intuition about data cleanup. Could have guessed 0 pages books should be removed. less than 2 star books can be removed. etc. But model works and I have some idea of how to setup objective function and constraints. Need more practice with LP to intuitively create solutions.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -346,7 +346,7 @@ Thougths: ** need to develop better intuition about data cleanup. Could have gue
 - Updated model to include more of the dataset. Dropped duplicates, cleaned for children books etc
 
 
-Thougths: ** need to develop better intuition about data cleanup. Pretty happy with the model result though. I feel its achievable to finish reading 70 books in 100 hours.
+**  Thougths:** need to develop better intuition about data cleanup. Pretty happy with the model result though. I feel its achievable to finish reading 70 books in 100 hours.
 
 **Links to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
 
@@ -356,7 +356,7 @@ Thougths: ** need to develop better intuition about data cleanup. Pretty happy w
 - Back to classification course. Finished week 4 quiz and refreshed the last module i was at.
 - Wrote some sql for a random hackerrank challenge to test my skill. (check)
 
-Thougths: ** Working through it
+**  Thougths:** Working through it
 
 **Links to work:**
 
@@ -369,7 +369,7 @@ Thougths: ** Working through it
 - Started week 5. Boosting. WIP..will start assignment soon.
 - Parallely learning about microservcices architecture and principles.
 
-Thougths: ** Working through it
+**  Thougths:** Working through it
 
 **Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
@@ -377,7 +377,7 @@ Thougths: ** Working through it
 
 - Continued principles of microservices.
 
-Thougths: ** Was strapped on time due to hectic work deadline. But small progress counts I guess.
+**  Thougths:** Was strapped on time due to hectic work deadline. But small progress counts I guess.
 
 **Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
@@ -389,7 +389,7 @@ MISSED
 
 - Continued principles of microservices. Topics covered today were: consumer first design of microservics and independent deployments.
 
-Thougths: ** Finishing this first before jumping back into classification course. Microservices knowledge was a bit time sensitiev to packed it in the middle of my classification course.
+** Thougths:** Finishing this first before jumping back into classification course. Microservices knowledge was a bit time sensitiev to packed it in the middle of my classification course.
 
 **Links to work:** Nothing to show. Notes for microservices updated in notes folder.
 
@@ -399,7 +399,7 @@ Thougths: ** Finishing this first before jumping back into classification course
 - Completed principles of microservices. Topics covered today were: Isolated failures and highly observable microservices.
 - Started a Airflow Te,plte project to use as starting point for all the best practices i have learnt and samepl code.
 
-Thougths: ** It is a tool for myself to setup airflow and will also support the next blog post I am going to write about FAQs and common problems I faced while running airflow for a year.
+**  Thougths:** It is a tool for myself to setup airflow and will also support the next blog post I am going to write about FAQs and common problems I faced while running airflow for a year.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
@@ -609,11 +609,12 @@ Thoughts: Wasn't efficient writing the blog and woring through 100 days of code.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter and notes folder.
 
+
 ### Day 65: Mar 29, 2018
 
 - Worked on a simple script to extract and post update from logs to twitter.
 
-Thoughts: Next step is to convert to post commit hook.
+** Thoughts: Next step is to convert to post commit hook.
 
 **Links to work**: NTS
 
@@ -625,5 +626,3 @@ Thoughts: Next step is to convert to post commit hook.
 Thoughts: Pelican is easy and comfortable to get a good workflow going. Excited to start this. Also found some inspiring personal sites/blogs who use pelican.
 
 **Links to work**: https://nehiljain.github.io
-
-
