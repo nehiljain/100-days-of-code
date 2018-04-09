@@ -632,3 +632,10 @@ MISSED
 **Links to work:** https://nehiljain.github.io
 
 
+### Day 67: April 8, 2018
+
+- Airflow part 2 code examples added and
+
+**Thoughts:** Need a good markdown workflow to do spellcheck, preview and help with syntax.
+
+**Links to work:** https://nehiljain.github.io/drafts/airflow-2.html
