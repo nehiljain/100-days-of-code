@@ -639,3 +639,15 @@ MISSED
 **Thoughts:** Need a good markdown workflow to do spellcheck, preview and help with syntax.
 
 **Links to work:** https://nehiljain.github.io/drafts/airflow-2.html
+
+### Day 68: April 9, 2018
+
+MISSED <> Took a long break ~1 Month because of other priorities. Back to finish it!
+
+### Day 69: May 15, 2018
+
+- Played with Fabric as a tool to replace shell scripts with python code
+
+**Thoughts:** Fabric is super easy and clean shell commands.
+
+**Links to work:** NTS
