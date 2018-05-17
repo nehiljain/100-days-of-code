@@ -651,3 +651,12 @@ MISSED <> Took a long break ~1 Month because of other priorities. Back to finish
 **Thoughts:** Fabric is super easy and clean shell commands.
 
 **Links to work:** NTS
+
+
+### Day 70: May 16, 2018
+
+- Played with coala and refactor code based on some of the popular standard in python code.
+
+**Thoughts:** Coala is super powerful with applypatch.
+
+**Links to work:** https://github.com/nehiljain/airflow-starter
