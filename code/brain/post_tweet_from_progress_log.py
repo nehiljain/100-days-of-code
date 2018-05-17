@@ -65,7 +65,9 @@ def get_progress_from_github():
   progress_logs = str(base64.standard_b64decode(progress_logs_file.content).decode('utf-8'))
   updates = progress_logs.split("###")
   for update in updates[-1:]:
+    import pdb; pdb.set_trace()
     if 'links to work' in update.lower():
+
       update_text, link = update.split('**Links to work:**')
       update_texts = update_text.split('\n')
       update_texts_notnull = [clean_str_for_update(s) for s in update_texts if s]
@@ -76,7 +78,7 @@ def get_progress_from_github():
 
 
 def generate_tweet_from_update(day_str, update):
-  update = '''{}: {} #100DaysOfCode ProgressLogs @ {} 
+  update = '''{}: {} #100DaysOfCode #TheLastMile ProgressLogs @ {} 
   '''.format(day_str, update, log_url)
   return update
 
