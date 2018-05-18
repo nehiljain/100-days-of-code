@@ -660,3 +660,11 @@ MISSED <> Took a long break ~1 Month because of other priorities. Back to finish
 **Thoughts:** Coala is super powerful with applypatch.
 
 **Links to work:** https://github.com/nehiljain/airflow-starter
+
+### Day 71: May 17, 2018
+
+- Ventured into Terratest. Setting up and go and reading through code.
+
+**Thoughts:** Need to spend time learning go
+
+**Links to work:** NTS
