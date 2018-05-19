@@ -668,3 +668,11 @@ MISSED <> Took a long break ~1 Month because of other priorities. Back to finish
 **Thoughts:** Need to spend time learning go
 
 **Links to work:** NTS
+
+### Day 72: May 18, 2018
+
+- Learning GO
+
+**Thoughts:** Interesting cross between c and python
+
+**Links to work:** https://play.golang.org/p/L2PMb8sh-Sw
