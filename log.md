@@ -676,3 +676,11 @@ MISSED <> Took a long break ~1 Month because of other priorities. Back to finish
 **Thoughts:** Interesting cross between c and python
 
 **Links to work:** https://play.golang.org/p/L2PMb8sh-Sw
+
+### Day 73: May 19, 2018
+
+- Learning GO Continues
+
+**Thoughts:** fun to learn a new language and compare with assumptions of current language.
+
+**Links to work:** https://github.com/nehiljain/learn-go/blob/master/notes.md
