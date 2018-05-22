@@ -684,3 +684,11 @@ MISSED <> Took a long break ~1 Month because of other priorities. Back to finish
 **Thoughts:** fun to learn a new language and compare with assumptions of current language.
 
 **Links to work:** https://github.com/nehiljain/learn-go/blob/master/notes.md
+
+### Day 74: May 21, 2018
+
+- Learning GO with Hackerrank
+
+**Thoughts:** fun to learn a new language and compare with assumptions of current language.
+
+**Links to work:** https://github.com/nehiljain/learn-go/commit/1e46b03c869419426644b65773a138bc56fc27ea
